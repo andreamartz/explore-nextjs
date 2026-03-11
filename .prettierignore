@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# next build output
+.next
+out
+
+# production builds
+build
+dist
+
+# generated types
+next-env.d.ts
+
+# logs
+*.log
